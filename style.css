@@ -1,0 +1,27 @@
+body{
+    background-color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    justify-content: center;
+    padding: 100px;
+}
+
+h1{
+    color: gray;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+.maindiv{
+    background-color: beige;
+    color: black;
+    width: 300px;
+    padding: 20px;
+    border-radius: 25px;
+    text-align: center;
+}
+
+span{
+    text-align: left;
+}
+
